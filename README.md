@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnujeetVerma
 - 👀 I’m interested in : 
-- 🌱 I’m currently persuing : B.Tech from IIIT Kalyani && BS Degree in Data Science from IIT Madras, 
+- 🌱 I’m currently persuing : B.Tech from IIIT Kalyani && BS Degree in Data Science and business management from IIT Madras, 
 - 💞️ I’m looking to collaborate on : Machine learning projects.
 - 📫 How to reach me : 
 - 😄 Pronouns: ...
