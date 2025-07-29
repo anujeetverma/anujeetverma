@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on : Machine learning projects.
 - 📫 How to reach me :
 - official Email : cse23022@iiitkalyani.ac.in
-- ph No. +91 9330127353
 - email : anujeetverma24@gmail.com
 
 
