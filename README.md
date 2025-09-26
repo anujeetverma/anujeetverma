@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on : Deep learning projects || Computer Vision || Drone coding || App development.
 - 📫 How to reach me :
 -   Official Email : cse23022@iiitkalyani.ac.in
--   Personal email : anujeetverma24@gmail.com
+-   Personal email : anujeetverma24@gmail.com 
 
 
 <!---
